@@ -31,11 +31,7 @@
 
 #### 🗃️ SQL (Intermediate) – HackerRank  
 [<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" width="600"/>](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
-
-<a href="https://www.hackerrank.com/certificates/iframe/d72911d0eade" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="30"/>
-  <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="300"/>
-</a>
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="20"/> HackerRank
 
 <!-- 
 
