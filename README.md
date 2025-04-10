@@ -13,15 +13,31 @@
 ---
 
 ### 🛠️ Tech Stack
-```text
-💻 Languages:     JavaScript | HTML | CSS | SQL | Python (basic)
-🛠️ Frameworks:    Node.js | Express | React (Learning)
-🗄️ Databases:     MongoDB | MySQL
-🧰 Tools:         Git | GitHub | Postman | VS Code | RAMMap
-☁️ Cloud:         Microsoft Azure (AZ-900 in progress)
+
+💻 **Languages:**     JavaScript | HTML | CSS | SQL | Python (basic)  
+🛠️ **Frameworks:**    Node.js | Express | React (Learning)  
+🗄️ **Databases:**     MongoDB | MySQL  
+🧰 **Tools:**         Git | GitHub | Postman | VS Code | RAMMap  
+☁️ **Cloud:**         Microsoft Azure (AZ-900 in progress)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-prakash-singh-khati&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Prakash-Singh-khati-007&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prakash-singh-khati&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Prakash-Singh-khati-007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 🔗 Connect with me
+
+- 📧 Email: `your-email@example.com`
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: *Coming soon!*
+
+---
+
+> _"Code. Learn. Repeat."_ 🚀
