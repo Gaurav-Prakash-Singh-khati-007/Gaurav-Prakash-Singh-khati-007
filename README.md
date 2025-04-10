@@ -49,7 +49,7 @@
 ### 🔗 Connect with me
 
 - 📧 Email: `gauravkhati.dev@gmail.com`
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gaurav-prakash-singh-khati007/)
++ 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-prakash-singh-khati007/)
 - 🌐 Portfolio: *Coming soon!*
 
 ---
