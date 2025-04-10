@@ -26,25 +26,16 @@
 #### - 🐍 **Python** – [Kaggle: Python Course Certificate]
 [<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/Gaurav%20%20Prakash%20Singh%20Khati%20-%20Intro%20to%20Programming.png?raw=true" width="600"/>](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
 
+### 📜 Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.hackerrank.com/certificates/iframe/d72911d0eade" target="_blank">
-        <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="300" />
-        <br />
-        <strong>SQL (Basic) – HackerRank</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" target="_blank">
-        <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" width="300" />
-        <br />
-        <strong>SQL (Intermediate) – HackerRank</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+#### 🧠 SQL (Basic) – HackerRank  
+[<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="600"/>](https://www.hackerrank.com/certificates/iframe/d6f87dce4912)
+
+---
+
+#### 🧠 SQL (Intermediate) – HackerRank  
+[<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" width="600"/>](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
+
 <!-- 
 
 ### 📈 GitHub Stats
