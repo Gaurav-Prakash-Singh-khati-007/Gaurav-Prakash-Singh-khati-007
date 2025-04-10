@@ -3,12 +3,12 @@
 
 ---
 
-- 🔭 I recently worked as a **Backend Developer Intern at MetaOrange**
-- 🌱 Currently learning **Terminal Commands, Cybersecurity**
-- 👨‍💻 I’m passionate about  **Tech**
-- 🎓 B.Tech CSE | Government Polytechnic Diploma (IT)
+- 🔭 Recently worked as a **Backend Developer Intern at MetaOrange**
+- 🌱 Currently learning **Linux Terminal Commands** & **Cybersecurity**
+- 👨‍💻 Passionate about all things **Tech**
+- 🎓 **B.Tech in CSE** | Diploma in IT (Govt. Polytechnic)
 - 💬 Ask me about **Node.js, MongoDB, HTML/CSS, JavaScript**
-- ⚡ Fun fact: I love **traveling** and cracking **math tricks** for fun!
+- ⚡ Fun fact: I love **traveling**!
 
 ---
 ### 🛠️ Tech Stack
