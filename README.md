@@ -29,7 +29,7 @@
 
 💻 **Languages:**     JavaScript | HTML | CSS | SQL | Python (basic)  
 🛠️ **Frameworks:**    Node.js | Express | React (Learning)  
-🗄️ **Databases:**      MySQL | MongoDB
+🗄️ **Databases:**      MySQL | Postgresql
 🧰 **Tools:**         Git | GitHub | Postman | VS Code |   
 
 
