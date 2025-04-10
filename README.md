@@ -26,8 +26,8 @@
 #### - 🐍 **Python** – Python (Intro to Programming) - Kaggle
 [<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/Gaurav%20%20Prakash%20Singh%20Khati%20-%20Intro%20to%20Programming.png?raw=true" width="600"/>]()
 
-#### <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="22" style="vertical-align: middle;"/> SQL (Basic) – HackerRank
- SQL (Basic) –  HackerRank
+
+#### 🗃️ SQL (Basic) –  HackerRank
 [<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="600"/>](https://www.hackerrank.com/certificates/iframe/d6f87dce4912)
 
 #### 🗃️ SQL (Intermediate) – HackerRank  
