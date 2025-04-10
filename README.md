@@ -20,4 +20,8 @@
 🧰 Tools:         Git | GitHub | Postman | VS Code | RAMMap
 ☁️ Cloud:         Microsoft Azure (AZ-900 in progress)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaurav-prakash-singh-khati-007&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prakash-singh-khati&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-prakash-singh-khati&show_icons=true&theme=radical" alt="Gaurav's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-prakash-singh-khati&layout=compact&theme=radical" alt="Top Languages" />
+</p>
