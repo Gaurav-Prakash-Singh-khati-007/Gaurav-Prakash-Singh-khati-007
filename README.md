@@ -67,7 +67,8 @@
 ---
 ### 🔗 Connect with me
 
-- 📧 Email: [gauravkhati.dev@gmail.com](mailto:gauravkhati.dev@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkhati.dev@gmail.com)
+: [gauravkhati.dev@gmail.com](mailto:gauravkhati.dev@gmail.com)
 +  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-prakash-singh-khati007/) 
 - 🌐 Portfolio: *Coming soon!*
 
