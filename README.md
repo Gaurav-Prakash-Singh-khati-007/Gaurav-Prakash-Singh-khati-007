@@ -21,6 +21,13 @@
 
 
 ---
+### 📜 Certifications
+
+- 🐍 **Python** – [Kaggle: Python Course Certificate](#)  
+- 🧠 **SQL (Basic)** – [HackerRank: SQL Certificate](#)
+
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Basic-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
+
 <!-- 
 
 ### 📈 GitHub Stats
@@ -33,6 +40,7 @@
 
 ---
 -->
+---
 ### 🔗 Connect with me
 
 - 📧 Email: `gauravkhati.dev@gmail.com`
