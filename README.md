@@ -25,6 +25,8 @@
 
 - 🐍 **Python** – [Kaggle: Python Course Certificate](#)  
 - 🧠 **SQL (Basic)** – [HackerRank: SQL Certificate](#)
+- 
+[![HackerRank SQL Basic Certificate](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original-wordmark.svg)](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
 
 [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Basic-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
 
