@@ -27,10 +27,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-💻 **Languages:**     JavaScript | HTML | CSS | SQL | Python (basic)  
-🛠️ **Frameworks:**    Node.js | Express | React (Learning)  
-🗄️ **Databases:**      MySQL | Postgresql |
-🧰 **Tools:**         Git | GitHub | Postman | VS Code |   
+### 🛠️ Tech Stack
+
+💻 **Languages:**  
+JavaScript | HTML | CSS | SQL | Python (basic)  
+
+🛠️ **Frameworks:**  
+Node.js | Express | React (Learning)  
+
+🗄️ **Databases:**  
+MySQL | PostgreSQL  
+
+🧰 **Tools:**  
+Git | GitHub | Postman | VS Code  
+
 
 
 ---
