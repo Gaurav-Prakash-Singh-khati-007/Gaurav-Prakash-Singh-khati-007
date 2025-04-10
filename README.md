@@ -5,7 +5,7 @@
 
 - 🔭 I recently worked as a **Backend Developer Intern at MetaOrange**
 - 🌱 Currently learning **Terminal Commands, Cybersecurity**
-- 👨‍💻 I’m passionate about both **Tech & UPSC prep**
+- 👨‍💻 I’m passionate about  **Tech**
 - 🎓 B.Tech CSE | Government Polytechnic Diploma (IT)
 - 💬 Ask me about **Node.js, MongoDB, HTML/CSS, JavaScript**
 - ⚡ Fun fact: I love **traveling** and cracking **math tricks** for fun!
@@ -21,6 +21,7 @@
 
 
 ---
+<!-- 
 
 ### 📈 GitHub Stats
 
@@ -31,7 +32,7 @@
 </p>
 
 ---
-
+-->
 ### 🔗 Connect with me
 
 - 📧 Email: `gauravkhati.dev@gmail.com`
