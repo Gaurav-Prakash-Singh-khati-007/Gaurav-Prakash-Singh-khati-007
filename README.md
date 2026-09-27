@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Prakash Singh Khati</h1>
-<h3 align="center"> 💻 Developer by Day | 🕵️ Cyber Ninja by Night | 💡 Learner Always | </h3>
+<h3 align="center"> 💻 | Researcher |  </h3>
 
 ---
 
