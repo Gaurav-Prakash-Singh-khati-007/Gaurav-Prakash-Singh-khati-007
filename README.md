@@ -6,7 +6,7 @@
 - 🔭 Recently worked as a **Backend Developer Intern at MetaOrange**
 - 🌱 Currently learning **Linux Terminal Commands** & **Cybersecurity**
 - 👨‍💻 Passionate about all things **Tech**
-- 🎓 **B.Tech in CSE** | Diploma in IT (Govt. Polytechnic)
+- 🎓**M.Tech in CSE** | **B.Tech in CSE** | Diploma in IT (Govt. Polytechnic)
 - 💬 Ask me about **Node.js, MongoDB, HTML/CSS, JavaScript**
 - ⚡ Fun fact: I love **traveling**!
 
