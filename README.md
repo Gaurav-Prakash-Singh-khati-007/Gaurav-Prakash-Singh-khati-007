@@ -1,157 +1,93 @@
  <h1 align="center">Hi 👋, I'm Gaurav Prakash Singh Khati</h1>
 
-<h3 align="center">🎓 M.Tech CSE | 🔬 Research Enthusiast | 🤖 AI-Assisted App Builder</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-Apps%20with%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI-assisted app building"/>
-  <img src="https://img.shields.io/badge/Focus-Research%20%26%20Learning-0A66C2?style=for-the-badge" alt="Research and learning"/>
-</p>
+<h3 align="center">💻 | Researcher | AI-Assisted App Builder</h3>
 
 ---
 
-- 🎓 **Education:** M.Tech in CSE | B.Tech in CSE | Diploma in IT
-- 🤖 Building applications with AI coding assistants
-- 🔬 Interested in AI/ML, academic research, and research productivity
-- 🍎 Currently working on macOS app projects
-- 🌱 Learning Linux terminal commands, cybersecurity, and machine learning
-- 💻 Exploring Swift, SwiftUI, JavaScript, Node.js, SQL, and Python
-- ✈️ Fun fact: I love traveling!
+- 🔭 Currently building **ResearchBase** and **Octryn** with AI assistance
+- 🤖 Exploring how AI coding tools can turn ideas into applications
+- 🌱 Currently learning **Linux Terminal Commands, Cybersecurity & AI/ML**
+- 👨‍💻 Interested in **Technology, Research & Software Development**
+- 🎓 **M.Tech in CSE** | **B.Tech in CSE** | Diploma in IT
+- 🧪 Research interests: **AI/ML, Agriculture AI & Research Tools**
+- ⚡ Fun fact: I love **traveling**!
 
 ---
 
-## 🚀 Projects I'm Building
+### 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🔬 ResearchBase** — A macOS application focused on research papers, PDF reading, and academic writing.
 
-<h3 align="center">🔬 ResearchBase</h3>
+[![ResearchBase](https://img.shields.io/badge/ResearchBase-macOS%20Research%20App-2F6FED?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Gaurav-Prakash-Singh-khati-007/ResearchBase)
 
-<p align="center">
-  <img src="https://placehold.co/600x300/182235/FFFFFF?text=ResearchBase" alt="ResearchBase project banner" width="100%"/>
-</p>
+**📚 Octryn** — A macOS study companion focused on timetables, revision, and exam preparation.
 
-A macOS research workspace I'm developing with AI assistance to explore research-paper organization, PDF reading, and academic writing workflows.
-
-**Exploring:** Swift, SwiftUI, PDFKit, and LaTeX integration.
-
-<a href="https://github.com/Gaurav-Prakash-Singh-khati-007/ResearchBase">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📚 Octryn</h3>
-
-<p align="center">
-  <img src="https://placehold.co/600x300/253047/FFFFFF?text=Octryn" alt="Octryn project banner" width="100%"/>
-</p>
-
-A macOS study and exam-preparation app focused on organizing study plans, revision, timetables, and previous-year questions.
-
-**Exploring:** App development, study workflows, and AI-assisted coding.
-
-<a href="https://github.com/Gaurav-Prakash-Singh-khati-007/Octryn_Mac_App">View Repository →</a>
-
-</td>
-</tr>
-</table>
+[![Octryn](https://img.shields.io/badge/Octryn-Study%20%26%20Revision-7B61FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Gaurav-Prakash-Singh-khati-007/Octryn_Mac_App)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-### Languages & Tools
+**Languages & Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-### Web Development
+**Frontend & Backend**
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 
-### macOS Development
+💻 **Languages:** JavaScript | HTML | CSS | SQL | Python (basic) | Swift (learning)
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-</p>
+🛠️ **Frameworks:** Node.js | Express | React (learning) | SwiftUI
 
-### Databases & Developer Tools
+🗄️ **Databases:** MySQL | PostgreSQL
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+🤖 **Development:** AI coding assistants | Git | GitHub | Xcode | VS Code
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
-### 🐍 Python — Introduction to Programming | Kaggle
+#### 🐍 Python — Introduction to Programming (Kaggle)
 
-<p align="center">
-  <a href="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/Gaurav%20%20Prakash%20Singh%20Khati%20-%20Intro%20to%20Programming.png">
-    <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/Gaurav%20%20Prakash%20Singh%20Khati%20-%20Intro%20to%20Programming.png?raw=true" width="600" alt="Kaggle Python Introduction to Programming certificate"/>
-  </a>
-</p>
+[<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/Gaurav%20%20Prakash%20Singh%20Khati%20-%20Intro%20to%20Programming.png?raw=true" width="500" alt="Python certificate"/>](https://www.kaggle.com/)
 
-### 🗃️ SQL (Basic) — HackerRank
+#### 🗃️ SQL (Basic) — HackerRank
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/iframe/d6f87dce4912">
-    <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="600" alt="HackerRank SQL Basic certificate"/>
-  </a>
-</p>
+[<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20basic.png?raw=true" width="500" alt="SQL Basic certificate"/>](https://www.hackerrank.com/certificates/iframe/d6f87dce4912)
 
-### 🗃️ SQL (Intermediate) — HackerRank
+#### 🗃️ SQL (Intermediate) — HackerRank
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/iframe/d72911d0eade">
-    <img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" width="600" alt="HackerRank SQL Intermediate certificate"/>
-  </a>
-</p>
+[<img src="https://github.com/Gaurav-Prakash-Singh-khati-007/Gaurav-Prakash-Singh-khati-007/blob/main/SQL%20INtERMEDIATE.png?raw=true" width="500" alt="SQL Intermediate certificate"/>](https://www.hackerrank.com/certificates/iframe/d72911d0eade)
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Prakash-Singh-khati-007&show_icons=true&theme=radical" alt="Gaurav's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Prakash-Singh-khati-007&show_icons=true&theme=radical" alt="Gaurav's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Prakash-Singh-khati-007&layout=compact&theme=radical" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Prakash-Singh-khati-007&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 🔗 Connect With Me
 
-<p align="left">
-  <a href="mailto:gauravkhati.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-prakash-singh-khati007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-🌐 **Portfolio:** Coming soon!
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkhati.dev@gmail.com) [gauravkhati.dev@gmail.com](mailto:gauravkhati.dev@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-prakash-singh-khati007/)
+- 🌐 Portfolio: *Coming soon!*
 
 ---
 
-<p align="center">
-  <i>🤖 Learning by building. Turning ideas into applications with AI. 🚀</i>
-</p>
+> _"Code. Learn. Build with AI. Repeat."_ 🚀
